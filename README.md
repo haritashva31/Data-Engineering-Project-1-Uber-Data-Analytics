@@ -1,7 +1,8 @@
+This is the project that has been referenced to Darshil Parmar's Video. This projects gives the basic understanding of a Data Engineering Project. My purpose of this project was to learn and build the entire model. The link of the video is given below.
 # Data-Engineering-Project-1-Uber-Data-Analytics
 Data-Engineering-Project-1-Uber-Data-Analytics
 
-This is the project that has been referenced to Darshil Parmar's Video. This projects gives the basic understanding of a Data Engineering Project. My purpose of this project was to learn and build the entire model.
+
 Uber Data Analytics | Modern Data Engineering GCP Project
 Introduction
 The goal of this project is to perform data analytics on Uber data using various tools and technologies, including GCP Storage, Python, Compute Instance, Mage Data Pipeline Tool, BigQuery, and Looker Studio.
